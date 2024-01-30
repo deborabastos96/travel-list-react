@@ -18,6 +18,4 @@ The Far Away App is a simple tool designed to help users organize and manage the
 * Clearing the List: Click on the "Clear List" button to remove all items from the list.
 
 ## Technologies Used
-* HTML
-* CSS
-* JavaScript
+* React
