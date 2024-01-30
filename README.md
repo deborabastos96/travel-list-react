@@ -19,4 +19,5 @@ The Far Away App is a simple tool designed to help users organize and manage the
 
 ## Technologies Used
 * React
+* JavaScript
 * CSS
