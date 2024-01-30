@@ -1,7 +1,7 @@
 # Far Away
 
 ## Overview
-The Travel List App is a simple tool designed to help users organize and manage their packing list for their next trip. Users can easily add items to the list, mark them as packed, delete items, sort the list, and clear the entire list as needed.
+The Far Away App is a simple tool designed to help users organize and manage their packing list for their next trip. Users can easily add items to the list, mark them as packed, delete items, sort the list, and clear the entire list as needed.
 
 ## Features
 * Add Items: Users can add items to the list by typing them into the input field and pressing enter.
